@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: <br/> **adharanosalevich@gmail.com** <br/> or **Adhara Irene Redruello** in Slack
 
-- ⚡ Fun fact: <br/> **I love the bread, really i eat many breads**
+- ⚡ Fun fact: <br/> **I love the bread, really i eat many breads while i code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
