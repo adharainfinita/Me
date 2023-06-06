@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adhara</h1>
-<h3 align="center">your future favorite Full Stack developer from Argetina</h3>
+<h3 align="center">Your future favorite Full Stack developer from Argetina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adharainfinita&label=Profile%20views&color=0e75b6&style=flat" alt="adharainfinita" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 👯 I finishing my academic studies on **Henry**
 
-- 📫 How to reach me: <br/> **adharanosalevich@gmail.com**
+- 📫 How to reach me: <br/> **adharanosalevich@gmail.com** <br/> or **Adhara Irene Redruello** in Slack
 
 - ⚡ Fun fact: <br/> **I love the bread, really i eat many breads**
 
