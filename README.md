@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adharainfinita&label=Profile%20views&color=0e75b6&style=flat" alt="adharainfinita" /> </p>
 
-- 🔭 I’m currently working on **Facil Market**
+- 🔭 I’m actually working on **Facil Market**
 
-- 🌱 I’m learning right now **React Native, Tailwind Css**
+- 🌱 I’m learning right now **React Native, Tailwind Css** and i'm polishing **Typescript**💪
 
-- 👯 I work with my academic team on **Henry**
+- 👯 I finishing my academic studies on **Henry**
 
-- 📫 How to reach me **adharanosalevich@gmail.com**
+- 📫 How to reach me: <br/> **adharanosalevich@gmail.com**
 
-- ⚡ Fun fact **I love the bread, really i eat many breads**
+- ⚡ Fun fact: <br/> **I love the bread, really i eat many breads**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
