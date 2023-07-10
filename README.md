@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adharainfinita&label=Profile%20views&color=0e75b6&style=flat" alt="adharainfinita" /> </p>
 
-- 🔭 I’m actually working on **Facil Market**
+- 🔭 I’m actually working in my **Portfolio**
 
 - 🌱 I’m learning right now **React Native, Tailwind Css** and i'm polishing **Typescript**💪
 
