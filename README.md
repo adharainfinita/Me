@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **adharanosalevich@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/adhara-redruello-81a704262/](https://www.linkedin.com/in/adhara-redruello-81a704262/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/adhara-redruello-81a704262/)
 
 - ⚡ Fun fact **I love the bread, really i eat many breads**
 
