@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my Portfolio**
 
-- 🌱 I’m learning right now **React Native, Tailwind Css**
+- 🌱 I’m learning right now **.Net Core and Angular**
 
 - 👯 I finishing my academic studies on **Henry**
 
@@ -17,9 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/adhara-redruello-81a704262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adhara-redruello-81a704262" height="30" width="40" /></a>
-<a href="https://www.facebook.com/adhara.redruello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/adhara.redruello" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ardescorpio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ardescorpio/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/adhara-redruello-81a704262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adhara-redruello-81a704262" height="30" width="40" /></a></a></a>
 <a href="https://www.youtube.com/@adhararedruello2310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc9fnzucydthkmhxfsgu97vg" height="30" width="40" /></a>
 </p>
 
