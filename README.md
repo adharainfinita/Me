@@ -3,22 +3,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adharainfinita&label=Profile%20views&color=0e75b6&style=flat" alt="adharainfinita" /> </p>
 
-- 🔭 I’m currently working on **my Portfolio**
+- 🔭 I’m currently search job like **Full stack web Developer**
 
-- 🌱 I’m learning right now **.Net Core and Angular**
+- 🌱 I’m learning right now **.Net Core**
 
-- 👯 I finishing my academic studies on **Henry**
+- 👯 I finished my academic studies on **Henry**
 
 - 📫 How to reach me **adharanosalevich@gmail.com**
 
 - 📄 Know about my experiences [here](https://www.linkedin.com/in/adhara-redruello-81a704262/)
 
-- ⚡ Fun fact **I love the bread, really i eat many breads**
+- 💼See my Portofolio [here](https://adharainfinita.github.io/Portfolio/)
+
+- ⚡ Fun fact: **I love the bread, really i eat many breads**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/adhara-redruello-81a704262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adhara-redruello-81a704262" height="30" width="40" /></a></a></a>
 <a href="https://www.youtube.com/@adhararedruello2310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc9fnzucydthkmhxfsgu97vg" height="30" width="40" /></a>
+<a href="https://twitter.com/AdharaRedruello" target="blank><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/AdharaRedruello" height="30" width="40"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
