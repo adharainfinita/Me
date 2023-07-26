@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/adhararedruello" target="blank"><img src="https://img.shields.io/twitter/follow/adhararedruello?logo=twitter&style=for-the-badge" alt="adhararedruello" /></a> </p>
 
-- 🔭 I’m currently search job like **my Portfolio**
+- 🔭 I’m currently search job like backend developer
 
 - 🌱 I’m learning right now **ASP.Net Core**
 
