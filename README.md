@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Adhara</h1>
-<h3 align="center">Your favorite Full Stack developer from Entre Ríos</h3>
+<h3 align="center">A Full Stack developer focused iinto the Backend</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adharainfinita&label=Profile%20views&color=0e75b6&style=flat" alt="adharainfinita" /> </p>
 
@@ -7,27 +7,27 @@
 
 <p align="left"> <a href="https://twitter.com/adhararedruello" target="blank"><img src="https://img.shields.io/twitter/follow/adhararedruello?logo=twitter&style=for-the-badge" alt="adhararedruello" /></a> </p>
 
-- 🔭 I’m currently search job like **my Portfolio**
+- 🔭 I’m currently search job like **junior dev**
 
-- 🌱 I’m learning right now **Microservices architecture**
+- 🌱 I’m learning right now **Java and Linux**
 
-- 👯 I finished my academic studies on [Henry](https://certificates.soyhenry.com/new-cert?id=2c8745f5687cb4bf355561d37c46777f3c55b18933d99dce38673a78efd8c67f)
+- 👯 I starting my academic studies on [UADER](https://www.linkedin.com/in/fcyt-uader-sede-concepci%C3%B3n-del-uruguay-956909223/)
 
 - 👨‍💻 All of my projects are available at [https://adharainfinita.github.io/Portfolio](https://adharainfinita.github.io/Portfolio)
 
-- 💬 Ask me about **Node, .Net, C#**
+- 💬 Ask me about **Javascript, React, my progress;)**
 
 - 📫 How to reach me **adharanosalevich@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/adhara-redruello-81a704262/](https://www.linkedin.com/in/adhara-redruello-81a704262/)
 
-- ⚡ Fun fact: **I love the bread, really i eat many breads**
+- ⚡ Fun fact: **I'm transwoman === Life level Hard**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/adhararedruello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adhararedruello" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/adhara-redruello-81a704262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adhara-redruello-81a704262" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@adhararedruello2310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@adhararedruello2310" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@ardescorpio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@adhararedruello2310" height="30" width="40" /></a>
 <a href="https://discord.gg/phoenix_2099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="phoenix_2099" height="30" width="40" /></a>
 </p>
 
